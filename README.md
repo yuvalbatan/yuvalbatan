@@ -1,5 +1,5 @@
-- Hi, I’m yuval batan,
-- I’m interested in cyber security espically offensive side, bug bounty and more.
-- I like to learn new things by making new projects.
+### Hi, my name is yuval batan,
+### I’m a penetration tester and CTF player, doing bug bounty and more.
+### I like to learn new things by making new projects, and develop my skills.
 
-linkedin: Yuval Batan.
+Add me on linkedin: www.linkedin.com/in/yuval-batan.
