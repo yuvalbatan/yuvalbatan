@@ -12,9 +12,9 @@ I always like to learn new things by making new projects, and develop my skills.
 In my github i publish writeups and tools for CTF's. 
 
 
-Add me on linkedin:
+Find me on linkedin:
  
-<a href="www.linkedin.com/in/yuval-batan" target="_blank">
+<a href="www.linkedin.com/in/yuval-batan1234" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
