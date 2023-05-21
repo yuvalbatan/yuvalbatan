@@ -4,7 +4,8 @@
 
 
 <div align="center">
-I'm yuval batan,
+ 
+My name is yuval batan,
 
 I’m a penetration tester and CTF player, doing bug bounty and more.
 
